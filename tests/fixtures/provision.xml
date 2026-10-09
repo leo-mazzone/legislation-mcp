@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Synthetic fixture: exercises structure, not an authoritative legal passage. -->
+<l:Legislation xmlns:l="http://www.legislation.gov.uk/namespaces/legislation"
+ xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata"
+ xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:h="http://www.w3.org/1999/xhtml"
+ RestrictExtent="E+W+S" RestrictStartDate="2010-10-01">
+ <ukm:Metadata><dc:title>Equality Act 2010</dc:title>
+  <ukm:PrimaryMetadata><ukm:DocumentStatus Value="revised"/><ukm:Year Value="2010"/><ukm:Number Value="15"/></ukm:PrimaryMetadata>
+  <ukm:UnappliedEffects><ukm:UnappliedEffect AffectedURI="section/20" Type="words substituted">Synthetic metadata</ukm:UnappliedEffect></ukm:UnappliedEffects>
+ </ukm:Metadata>
+ <l:Contents><l:ContentsItem ContentRef="section-20"><l:ContentsNumber>20</l:ContentsNumber><l:ContentsTitle>Duty to make adjustments</l:ContentsTitle></l:ContentsItem></l:Contents>
+ <l:Primary><l:Body><l:P1group><l:Title>Duty to make adjustments</l:Title><l:P1 id="section-20"><l:Pnumber>20</l:Pnumber><l:P1para><l:P2><l:Pnumber>1</l:Pnumber><l:P2para><l:Text>A <l:Emphasis>reasonable adjustment</l:Emphasis> &amp; assistance.</l:Text><h:table><h:tr><h:td>Column A</h:td><h:td>Column B</h:td></h:tr></h:table></l:P2para></l:P2></l:P1para></l:P1></l:P1group></l:Body></l:Primary>
+</l:Legislation>

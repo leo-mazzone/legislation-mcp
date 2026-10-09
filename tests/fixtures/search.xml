@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:title>Search results</a:title>
+  <a:link rel="next" href="https://www.legislation.gov.uk/all/data.feed?title=Equality&amp;page=2"/>
+  <a:entry>
+    <a:id>http://www.legislation.gov.uk/id/ukpga/2010/15</a:id>
+    <a:title>Equality Act 2010</a:title>
+    <a:link rel="alternate" href="https://www.legislation.gov.uk/ukpga/2010/15/contents"/>
+    <a:updated>2026-01-01T00:00:00Z</a:updated>
+  </a:entry>
+</a:feed>
